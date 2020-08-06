@@ -1,0 +1,51 @@
+{
+  "name": "BBTVPlayeriOS",
+  "version": "0.0.11",
+  "summary": "A short description of BBTVNewPlayers. is player",
+  "description": "A short description of BBTVNewPlayers. is player desc",
+  "homepage": "https://gitlab.com/bbtvnmd-mobile/BBTVPlayer-iOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Banchai Nangpang": "pong.np1@gmail.com",
+    "Chanon Purananunak": "chanon.unix@gmail.com",
+    "Pimpun Janchay": "pimpun.dev@gmail.com"
+  },
+  "source": {
+    "git": "git@gitlab.com:bbtvnmd-mobile/BBTVPlayer-iOS.git",
+    "tag": "0.0.11"
+  },
+  "platforms": {
+    "ios": "11.0",
+    "tvos": "11.0"
+  },
+  "swift_versions": "5.1",
+  "source_files": "BBTVPlayeriOS/Classes/**/*",
+  "resource_bundles": {
+    "BBTVPlayeriOS": [
+      "BBTVPlayeriOS/Assets/**/*"
+    ]
+  },
+  "frameworks": "UIKit",
+  "weak_frameworks": [
+    "SwiftUI",
+    "Combine"
+  ],
+  "dependencies": {
+    "Brightcove-Player-Core/dynamic": [
+
+    ],
+    "Brightcove-Player-IMA": [
+
+    ],
+    "Just": [
+
+    ],
+    "Kingfisher": [
+
+    ]
+  },
+  "swift_version": "5.1"
+}

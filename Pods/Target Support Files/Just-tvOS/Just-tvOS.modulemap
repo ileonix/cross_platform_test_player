@@ -1,0 +1,6 @@
+framework module Just {
+  umbrella header "Just-tvOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

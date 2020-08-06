@@ -1,0 +1,6 @@
+framework module BBTVPlayeriOS {
+  umbrella header "BBTVPlayeriOS-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,12 @@
+CONFIGURATION_BUILD_DIR = ${PODS_CONFIGURATION_BUILD_DIR}/BBTVPlayeriOS-iOS
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/Just-iOS" "${PODS_CONFIGURATION_BUILD_DIR}/Kingfisher-iOS" "${PODS_ROOT}/Brightcove-Player-Core/ios/dynamic" "${PODS_ROOT}/Brightcove-Player-IMA/ios" "${PODS_ROOT}/GoogleAds-IMA-iOS-SDK"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+OTHER_LDFLAGS = $(inherited) -framework "AVFoundation" -framework "AdSupport" -framework "AudioToolbox" -framework "BrightcoveIMA" -framework "BrightcovePlayerSDK" -framework "CoreFoundation" -framework "CoreGraphics" -framework "CoreMedia" -framework "GoogleInteractiveMediaAds" -framework "MessageUI" -framework "QuartzCore" -framework "SystemConfiguration" -framework "UIKit" -weak_framework "Combine" -weak_framework "SwiftUI" -weak_framework "WebKit"
+OTHER_SWIFT_FLAGS = $(inherited) -D COCOAPODS
+PODS_BUILD_DIR = ${BUILD_DIR}
+PODS_CONFIGURATION_BUILD_DIR = ${PODS_BUILD_DIR}/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_ROOT = ${SRCROOT}
+PODS_TARGET_SRCROOT = ${PODS_ROOT}/BBTVPlayeriOS
+PRODUCT_BUNDLE_IDENTIFIER = org.cocoapods.${PRODUCT_NAME:rfc1034identifier}
+SKIP_INSTALL = YES
+USE_RECURSIVE_SCRIPT_INPUTS_IN_SCRIPT_PHASES = YES

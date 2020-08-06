@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-ios_player-ios_playerUITests/Pods-ios_player-ios_playerUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/BBTVPlayeriOS-iOS/BBTVPlayeriOS.framework
+${PODS_ROOT}/Brightcove-Player-Core/ios/dynamic/BrightcovePlayerSDK.framework
+${PODS_ROOT}/Brightcove-Player-Core/ios/dynamic/BrightcovePlayerSDK.framework
+${PODS_ROOT}/Brightcove-Player-IMA/ios/BrightcoveIMA.framework
+${PODS_ROOT}/GoogleAds-IMA-iOS-SDK/GoogleInteractiveMediaAds.framework
+${BUILT_PRODUCTS_DIR}/Just-iOS/Just.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher-iOS/Kingfisher.framework

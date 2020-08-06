@@ -1,0 +1,148 @@
+{
+  "samples": [
+    {
+        "items": [
+            {
+                "name": "livech7.smil",
+                "coverUrl": "https://www.ch7.com/xl/lg/images/live_ch7.jpg",
+                "uri": "https://d3lau8zyhtlzx2.cloudfront.net/livech7/smil:livech7.smil/playlist.m3u8",
+                "drm_scheme": "fairplay",
+                "drm_license_url": "https://",
+                "extension": "m3u8"
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "name": "ElephantsDream",
+                "coverUrl": "https://www.goodtimeradio.fm/wp-content/uploads/2020/03/Cover-SOL-%E0%B9%80%E0%B8%AD%E0%B9%8A%E0%B8%B0-%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%A3.jpg",
+                "uri": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            },
+            {
+                "name": "ForBiggerBlazes",
+                "uri": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            },
+            {
+                "name": "ForBiggerEscapes",
+                "uri": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            },
+            {
+                "name": "ForBiggerFun",
+                "uri": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            },
+            {
+                "name": "ForBiggerJoyrides",
+                "uri": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+            },
+            {
+                "name": "BigBuckBunny",
+                "uri": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "name": "(siteId: brightcove, entryId: 444177, bcId:5839043584001)",
+                "coverUrl": "https://i.ytimg.com/vi/TrQlQ3fbjkc/maxresdefault.jpg",
+                "uri": "v2-bcid"
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "name": "(siteId: bugaboo, entryId: 461606)",
+                "coverUrl": "https://i.ytimg.com/vi/1nrp3TNnWew/maxresdefault.jpg",
+                "uri": "v2"
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "name": "HLS Ch7HD Live Stream",
+                "coverUrl": "https://www.ch7.com/xl/lg/images/live_ch7.jpg",
+                "uri": "https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/playlist.m3u8",
+                "extension": "m3u8"
+            }
+        ]
+    },
+    {
+      "items": [
+            {
+                "name": "HLS Ch7HD VOD Drama",
+                "coverUrl": "https://cdni-cf.bugaboo.tv/i/images/2020/06/09/thumbnail_ep9_1591693521_5830.jpg",
+                "uri": "https://d2xsyi7oqydng5.cloudfront.net/290d50b4-b95d-4012-ab33-833a0d559c52/hls/1591693603.m3u8",
+                "extension": "m3u8"
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "name": "Brightcove Ch7HD Live Stream",
+                "coverUrl": "https://www.ch7.com/xl/lg/images/live_ch7.jpg",
+                "uri": "5346342413001",
+                "extension": "bc"
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "name": "Brightcove Ch7HD VOD",
+                "coverUrl": "https://cdni-cf.ch7.com/dm/sz-md/i/mg/5/f/f/5ff0ed731e5a238354a5535e75e2e8de_41bugaboo.00_00_44_15.still262.jpg",
+                "uri": "6162741257001",
+                "extension": "bc"
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "name": "Apple 16x9 basic stream",
+                 "coverUrl" : "https://cdni.bugaboo.tv/dm/sz-md/i/mg/4/b/9/4b98c5fa8a7de0c3efed506155ee7aa4_logobugabootvthumb3.jpg",
+                "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8"
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "name": "Apple master playlist advanced (TS)",
+                "coverUrl" : "https://cdni.bugaboo.tv/dm/sz-md/i/mg/4/b/9/4b98c5fa8a7de0c3efed506155ee7aa4_logobugabootvthumb3.jpg",
+                "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8"
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "name": "Apple master playlist advanced (fMP4)",
+                 "coverUrl" : "https://cdni.bugaboo.tv/dm/sz-md/i/mg/4/b/9/4b98c5fa8a7de0c3efed506155ee7aa4_logobugabootvthumb3.jpg",
+                "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "name": "Apple TS media playlist",
+                "coverUrl" : "https://cdni.bugaboo.tv/dm/sz-md/i/mg/4/b/9/4b98c5fa8a7de0c3efed506155ee7aa4_logobugabootvthumb3.jpg",
+                "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/gear1/prog_index.m3u8"
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "name": "Apple AAC media playlist",
+                "coverUrl" : "https://cdni.bugaboo.tv/dm/sz-md/i/mg/4/b/9/4b98c5fa8a7de0c3efed506155ee7aa4_logobugabootvthumb3.jpg",
+                "uri": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/gear0/prog_index.m3u8"
+            }
+        ]
+    }
+  ]
+}

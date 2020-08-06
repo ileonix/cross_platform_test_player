@@ -1,0 +1,56 @@
+PODS:
+  - BBTVPlayeriOS (0.0.11):
+    - Brightcove-Player-Core/dynamic
+    - Brightcove-Player-IMA
+    - Just
+    - Kingfisher
+  - Brightcove-Player-Core (6.7.9)
+  - Brightcove-Player-Core/dynamic (6.7.6)
+  - Brightcove-Player-IMA (6.7.9):
+    - Brightcove-Player-Core (= 6.7.9)
+    - GoogleAds-IMA-iOS-SDK (= 3.11.4)
+    - GoogleAds-IMA-tvOS-SDK (= 4.2.3)
+  - GoogleAds-IMA-iOS-SDK (3.11.4)
+  - GoogleAds-IMA-tvOS-SDK (4.2.3)
+  - Just (0.8.0)
+  - Kingfisher (5.14.1):
+    - Kingfisher/Core (= 5.14.1)
+  - Kingfisher/Core (5.14.1)
+
+DEPENDENCIES:
+  - "BBTVPlayeriOS (from `git@gitlab.com:bbtvnmd-mobile/BBTVPlayer-iOS.git`, branch `feature/tvos`)"
+  - Brightcove-Player-Core/dynamic
+  - Just
+
+SPEC REPOS:
+  https://github.com/brightcove/BrightcoveSpecs.git:
+    - Brightcove-Player-Core
+    - Brightcove-Player-IMA
+  https://github.com/CocoaPods/Specs.git:
+    - GoogleAds-IMA-iOS-SDK
+    - GoogleAds-IMA-tvOS-SDK
+    - Just
+    - Kingfisher
+
+EXTERNAL SOURCES:
+  BBTVPlayeriOS:
+    :branch: feature/tvos
+    :git: "git@gitlab.com:bbtvnmd-mobile/BBTVPlayer-iOS.git"
+
+CHECKOUT OPTIONS:
+  BBTVPlayeriOS:
+    :commit: f9def0efcba48da808890de623e7b52ef4198fc7
+    :git: "git@gitlab.com:bbtvnmd-mobile/BBTVPlayer-iOS.git"
+
+SPEC CHECKSUMS:
+  BBTVPlayeriOS: 7e8225df90f871553232c311758de88c80a8ec41
+  Brightcove-Player-Core: e2a94177d916d1abdba6a894c56fd977e19fc0c1
+  Brightcove-Player-IMA: a91c4d747d7dcac5161ad486d805e86b18f3182c
+  GoogleAds-IMA-iOS-SDK: 7f5b78b31ce97ec1f515866ed54118922004f987
+  GoogleAds-IMA-tvOS-SDK: 98680b2407d6d13e048d952780d0eb835880c689
+  Just: aef5105fb2c7069b65aa6f21aec8f429057f9c19
+  Kingfisher: 8050bc6f7f68cbf3908bd04df7ccbac188f6d6d6
+
+PODFILE CHECKSUM: bb6c9c0c843b0b9d5456946a0071f1a1718d4c8c
+
+COCOAPODS: 1.9.1
